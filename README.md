@@ -27,7 +27,7 @@ GIF created with ezgif
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
-My favorite aplications and features that make them my favorite app:
+My favorite aplications and features that make them my favorite:
 - Apple Music
    * Music Queue: Apple Music lets me queue up my favorite tracks, allowing me to create personalized playlists that perfectly match my current mood and musical preferences
    * Lyric Display: The real-time display of song lyrics enhances my listening experience, enabling me to sing along to my favorite songs with ease
@@ -43,7 +43,11 @@ My favorite aplications and features that make them my favorite app:
   * Mute and Block Features: Twitter allows me to have a more personalized experience by allowing me to mute or block unwanted content from my feed
   * Tweet Bookmarking: I can bookmark tweets that catch my attention, making it easy to revisit and engage with them whenever I want to later
 
-    
+
+An app idea that I would like to build:
+
+I want to create an improved app based on Apple Health that transcends conventional health data storage and tracking. This app will be more personalized and empowering for users on their health journey. It will have a customizable dashboard, allowing users to prioritize and tailor the displayed health data. The app will also include a health journal feature, making it easy to track daily health experiences, symptoms, and emotions, helping users better understand their health and facilitating more meaningful discussions with healthcare providers. The app would also create a community where users can join support groups to connect with others with shared health interests for valuable emotional support and advice. Additionally, the app will integrate with popular wearables and health devices, giving a complete view of health information. I would also like for virtual appointments with healthcare providers to be available through telehealth platforms, ensuring easy access to healthcare services. These improvements will make the app an indispensable and personalized health companion, driven by user feedback and collaboration for an exceptional health management experience.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
