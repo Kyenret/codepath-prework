@@ -51,10 +51,12 @@ I want to create an improved app based on Apple Health that transcends conventio
 ## Notes
 
 Describe any challenges encountered while building the app.
+*  My main challenge was understanding Swift and navigating Xcode, both of which were new to me. However, the documents provided in the pre-task file were valuable resources, guiding me through the learning process and significantly aiding my understanding.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
