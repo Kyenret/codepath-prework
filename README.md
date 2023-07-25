@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *ColorChange App*
 
 Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that changes the background color when the "change" button is tapped [TODO] 
+**ColorChage App** is an app that features buttons and labels. This app allows you to experience a background color change with just a tap on the "Change" button
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ezgif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
