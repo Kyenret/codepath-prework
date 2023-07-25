@@ -1,8 +1,8 @@
 # Prework - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that... [TODO] 
+**Name of your app** is an app that changes the background color when the "change" button is tapped [TODO] 
 
 Time spent: **X** hours spent in total
 
