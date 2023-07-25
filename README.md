@@ -27,7 +27,23 @@ GIF created with ezgif
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+My favorite aplications and features that make them my favorite app:
+- Apple Music
+   * Music Queue: Apple Music lets me queue up my favorite tracks, allowing me to create personalized playlists that perfectly match my current mood and musical preferences
+   * Lyric Display: The real-time display of song lyrics enhances my listening experience, enabling me to sing along to my favorite songs with ease
+   * Social sharing: I can easily share and/or exchange good music with my friends and family through the app
 
+- Bible
+  * Verse highligting: The app allows me to mark and highlight my favorite verses, making it easy to revisit and reflect on my most meaningful passages whenever I want
+  * Audio Feature: With the audio functionality, I can listen to the Bible being read aloud, which is incredibly convenient for times when I prefer to absorb the teachings through listening rather than reading.
+  * Personalized Bible Plans: The app offers personalized Bible plans that cater to my individual spiritual journey, providing guidance and inspiration tailored to my needs per time
+
+- Twitter
+  * Location-Based Content: With the ability to select specific locations, I can keep track of trending topics and discussions in my country, even when I'm away. It keeps me updated on what's happening back home
+  * Mute and Block Features: Twitter allows me to have a more personalized experience by allowing me to mute or block unwanted content from my feed
+  * Tweet Bookmarking: I can bookmark tweets that catch my attention, making it easy to revisit and engage with them whenever I want to later
+
+    
 ## Notes
 
 Describe any challenges encountered while building the app.
