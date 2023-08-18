@@ -17,8 +17,6 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-file:///Users/kyenyakubu/Downloads/ezgif.com-video-to-gif.gif
-
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://i.imgur.com/9MBsEzG.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
