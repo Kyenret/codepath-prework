@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='(https://i.imgur.com/BsBcOEC.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://github.com/Kyenret/codepath-prework/blob/main/Kyen%20Ayuba-IOS%20101%20Prework%20Codepath.gif' title='Video Walkthrough' width=''>Video Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif 
