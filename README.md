@@ -35,7 +35,7 @@ My favorite aplications and features that make them my favorite:
 
 - Bible
   * Verse highligting: The app allows me to mark and highlight my favorite verses, making it easy to revisit and reflect on my most meaningful passages whenever I want
-  * Audio Feature: With the audio functionality, I can listen to the Bible being read aloud, which is incredibly convenient for times when I prefer to absorb the teachings through listening rather than reading.
+  * Audio Feature: With the audio functionality, I can listen to the Bible being read aloud, which is incredibly convenient for times when I prefer to absorb the teachings through listening rather than reading
   * Personalized Bible Plans: The app offers personalized Bible plans that cater to my individual spiritual journey, providing guidance and inspiration tailored to my needs per time
 
 - Twitter
