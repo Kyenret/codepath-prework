@@ -4,7 +4,7 @@ Submitted by: **Kyenret Yakubu Ayuba**
 
 **ColorChage App** is an app that features buttons and labels. This app allows you to experience a background color change with just a tap on the "Change" button
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -52,7 +52,7 @@ I want to create an improved app based on Apple Health that transcends conventio
 
 Describe any challenges encountered while building the app.
 *  My main challenge was understanding Swift and navigating Xcode, both of which were new to me. However, the documents provided in the pre-task file were valuable resources, guiding me through the learning process and significantly aiding my understanding.
-
+*  I encountered a challenge when trying to embed my GIF file into my README file. Unfortunately, the Imgur link wasn't cooperating, but I found a solution by uploading the Gif file directly to my repository and using that link instead. Additionally, I received invaluable assistance from the Codepath pre-work Slack community. It allowed me to engage with tutors and fellow applicants, enabling me to resolve this issue effectively.
 
 ## License
 
